@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-server
+data
+public/wasm
+test-results
+playwright-report
+.DS_Store
+*.log
+public/tracking-worker.js
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
